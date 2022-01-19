@@ -3,11 +3,11 @@
 
 :root {
     --dark-primary: rgb(185, 76, 202);
-    --dark-secondary: rgb(30, 30, 42);
-    --dark-secondary-alt: rgb(39, 37, 55);
+    --dark-secondary: rgb(185, 76, 208);
+    --dark-secondary-alt: rgb(185, 76, 202);
     --dark-bright: rgb(12, 12, 25);
-    --roundmoled-background: rgb(17, 17, 19);
-    --popout-activeborders: rgb(58, 58, 101);
+    --roundmoled-background: rgb(185, 76, 202);
+    --popout-activeborders: rgb(185, 76, 202);
 }
 
 /* Individual stuff related to the theme itself */
